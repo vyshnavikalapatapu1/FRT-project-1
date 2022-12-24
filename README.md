@@ -1,8 +1,8 @@
 # ✨  Grand Tour  ✨
 
-This is a web based application developed for fintech related based website in india
+This is a web based application developed for Lifestyle related based website in india
 
-### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based world tour application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 *Project Link* -   https://thankful-ocean-08ad96700.2.azurestaticapps.net
@@ -15,8 +15,8 @@ This is a web based application developed for fintech related based website in i
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, fintech topics and fentech related information etc.
-- User can know about fintech information through this website.
+- Has collection of many web pages including Home, About Us, Contact, Menu, travelling topics and tour related information etc.
+- User can know about travel information through this website.
 - Included the feedback Survey google form to increase the scope of improvement 
 
 ## Screenshots
