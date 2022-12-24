@@ -7,7 +7,7 @@ This is a web based application developed for fintech related based website in i
 
 *Project Link* -   https://thankful-ocean-08ad96700.2.azurestaticapps.net
 
-*project demo video link* -
+*project demo video link* -  https://youtu.be/elK43WE2TxY
 
 
 ## Features and Functionalities 😃
@@ -249,4 +249,4 @@ This is a web based application developed for fintech related based website in i
 - HTML
 - CSS
 - Bootstrap
-- JavaScript
+
